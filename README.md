@@ -12,4 +12,4 @@ I’m an **AI Engineer & Backend Developer** passionate about building intellige
 🌍 **Vision**  
 I believe in building **human-centered AI** — systems that don’t just automate, but **enhance collaboration, empathy, and meaningful connections**.  
 
-📫 **Let’s Connect:** [LinkedIn](https://www.linkedin.com/in/bilal-altundag) | [Portfolio](www.bilalaltundag.wordpress.com)  
+📫 **Let’s Connect:** [LinkedIn](https://www.linkedin.com/in/bilal-altundag) | [Portfolio](https://bilalaltundag.wordpress.com)  
